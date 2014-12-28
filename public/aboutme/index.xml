@@ -1,20 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
       <title>Aboutmes on my page </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
     <link>http://localhost:1313/wwwtest/aboutme/index.xml/</link>
     <language>en-us</language>
+=======
+      <title>Aboutmes on  </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/aboutme/index.xml/</link>
+    
+>>>>>>> 93817c930aa722bdfcdaca47aec8eb97b4258d9c
     
     
     <updated>Tue, 01 Jan 2008 00:00:00 UTC</updated>
     
     <item>
       <title>Frequently Asked Questions</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/wwwtest/aboutme/faq/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
       <guid>http://localhost:1313/wwwtest/aboutme/faq/</guid>
+=======
+      <link>http://localhost:1313/aboutme/faq/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/aboutme/faq/</guid>
+>>>>>>> 93817c930aa722bdfcdaca47aec8eb97b4258d9c
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Where is Chimera?&lt;/h3&gt;
@@ -32,6 +46,7 @@
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>About Chimera</title>
       <link>http://localhost:1313/wwwtest/aboutme/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
@@ -65,6 +80,13 @@
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
       <guid>http://localhost:1313/wwwtest/aboutme/space/</guid>
+=======
+      <title>Chimera&#39;s Space</title>
+      <link>http://localhost:1313/aboutme/space/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/aboutme/space/</guid>
+>>>>>>> 93817c930aa722bdfcdaca47aec8eb97b4258d9c
       <description>
 
 &lt;p&gt;{{% image /static/img/photos/portable-pano.jpg &amp;ldquo;Planning session at the mini-makerspace.&amp;rdquo; %}}&lt;/p&gt;
@@ -87,5 +109,36 @@
 </description>
     </item>
     
+<<<<<<< HEAD
+=======
+    <item>
+      <title>About Chimera</title>
+      <link>http://localhost:1313/aboutme/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/aboutme/</guid>
+      <description>
+
+&lt;p&gt;Chimera is a community arts and maker space in Sebastopol, California. We&amp;rsquo;re a diverse group of artists, makers, hackers and inventors who share a common desire to create, share and learn from each other.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Learn More&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Read our &lt;a href=&#34;/about/faq/&#34;&gt;FAQ&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Check out our current &lt;a href=&#34;/about/status/&#34;&gt;organization status&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;See what &lt;a href=&#34;/about/equipment/&#34;&gt;tools and equipment&lt;/a&gt; we offer.&lt;/li&gt;
+&lt;li&gt;Read our &lt;a href=&#34;/about/mission/&#34;&gt;mission and vision statements&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Learn about &lt;a href=&#34;/about/history/&#34;&gt;Chimera&amp;rsquo;s history&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;See who is on our &lt;a href=&#34;/about/leadership/&#34;&gt;board and leadership committees&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Learn about our &lt;a href=&#34;/about/space/&#34;&gt;current space&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/about/teaching/&#34;&gt;Teach at Chimera&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;View our &lt;a href=&#34;/press/&#34;&gt;press page&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Download our &lt;a href=&#34;/about/assets/&#34;&gt;logo and other assets&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Interested in donating? Checkout our &lt;a href=&#34;/donate/&#34;&gt;Donate page&lt;/a&gt; and our &lt;a href=&#34;/wishlist/&#34;&gt;Wishlist&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+>>>>>>> 93817c930aa722bdfcdaca47aec8eb97b4258d9c
   </channel>
 </rss>

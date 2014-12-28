@@ -2,33 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/wwwtest/</loc>
+=======
+    <loc>http://localhost:1313/</loc>
+>>>>>>> 93817c930aa722bdfcdaca47aec8eb97b4258d9c
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/wwwtest/aboutme/faq/</loc>
+=======
+    <loc>http://localhost:1313/contact/</loc>
+>>>>>>> 93817c930aa722bdfcdaca47aec8eb97b4258d9c
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/wwwtest/members/test-member/</loc>
+=======
+    <loc>http://localhost:1313/members/test-member/</loc>
+>>>>>>> 93817c930aa722bdfcdaca47aec8eb97b4258d9c
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/wwwtest/aboutme/</loc>
+=======
+    <loc>http://localhost:1313/aboutme/faq/</loc>
+>>>>>>> 93817c930aa722bdfcdaca47aec8eb97b4258d9c
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/wwwtest/contact/</loc>
+=======
+    <loc>http://localhost:1313/aboutme/space/</loc>
+>>>>>>> 93817c930aa722bdfcdaca47aec8eb97b4258d9c
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/wwwtest/aboutme/space/</loc>
+=======
+    <loc>http://localhost:1313/aboutme/</loc>
+>>>>>>> 93817c930aa722bdfcdaca47aec8eb97b4258d9c
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   

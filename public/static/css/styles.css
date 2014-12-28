@@ -118,7 +118,11 @@ h3 {
 ========================================================*/
 
 .hompage-jumbotron {
+<<<<<<< HEAD
   background: url('/wwwtest/static/img/photos/pliers.jpg') no-repeat;
+=======
+  background: url('/static/img/photos/pliers.jpg') no-repeat;
+>>>>>>> 93817c930aa722bdfcdaca47aec8eb97b4258d9c
   -webkit-background-size: cover;
   background-size: cover;
   margin-top: -1.2em;
@@ -141,7 +145,11 @@ h3 {
 ========================================================*/
 
 .page-nav {
+<<<<<<< HEAD
   background: #f2f4ef url('/wwwtest/static/img/gray-grid.png');
+=======
+  background: #f2f4ef url('/static/img/gray-grid.png');
+>>>>>>> 93817c930aa722bdfcdaca47aec8eb97b4258d9c
   border-radius: 0;
   border-bottom: 1px solid #e3e3e3;
   /*margin: 0 0 2.5em 0;*/
@@ -161,7 +169,11 @@ h3 {
 ========================================================*/
 
 .page-footer {
+<<<<<<< HEAD
   background: #f2f4ef url('/wwwtest/static/img/gray-grid.png');
+=======
+  background: #f2f4ef url('/static/img/gray-grid.png');
+>>>>>>> 93817c930aa722bdfcdaca47aec8eb97b4258d9c
   border-bottom: 1px solid #e3e3e3;
   border-top: 1px solid #e3e3e3;
   margin-top: 4em;
