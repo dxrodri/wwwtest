@@ -10,6 +10,28 @@
     <updated>Tue, 01 Jan 2008 00:00:00 UTC</updated>
     
     <item>
+      <title>Frequently Asked Questions</title>
+      <link>http://localhost:1313/wwwtest/aboutme/faq/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/wwwtest/aboutme/faq/</guid>
+      <description>
+
+&lt;h3 id=&#34;toc_0&#34;&gt;Where is Chimera?&lt;/h3&gt;
+
+&lt;p&gt;We&amp;rsquo;re located in downtown Sebastopol, California, an hour north of San Francisco. &lt;a href=&#34;/about/&#34;&gt;Learn more&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;What tools and equipment does Chimera have?&lt;/h3&gt;
+
+&lt;p&gt;Head over to our &lt;a href=&#34;/about/equipment/&#34;&gt;tools and equipment&lt;/a&gt; page to learn about what we have to offer.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_2&#34;&gt;How do you pronounce Chimera?&lt;/h3&gt;
+
+&lt;p&gt;{{% youtube HNagWRD96Wg %}}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>About Chimera</title>
       <link>http://localhost:1313/wwwtest/aboutme/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
@@ -62,28 +84,6 @@
 &lt;p&gt;We&amp;rsquo;re in the process of an effort to rent a larger fabrication facility that will serve the needs of members that want to do metalwork and other large/messy forms of art.&lt;/p&gt;
 
 &lt;p&gt;If you&amp;rsquo;re interested in getting involved in our planning process, check out our &lt;a href=&#34;https://groups.google.com/forum/#!forum/chimera-art-space&#34;&gt;Google Group&lt;/a&gt; and &lt;a href=&#34;http://eepurl.com/zRv7D&#34;&gt;signup to our newsletter&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Frequently Asked Questions</title>
-      <link>http://localhost:1313/wwwtest/aboutme/faq/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:1313/wwwtest/aboutme/faq/</guid>
-      <description>
-
-&lt;h3 id=&#34;toc_0&#34;&gt;Where is Chimera?&lt;/h3&gt;
-
-&lt;p&gt;We&amp;rsquo;re located in downtown Sebastopol, California, an hour north of San Francisco. &lt;a href=&#34;/about/&#34;&gt;Learn more&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;toc_1&#34;&gt;What tools and equipment does Chimera have?&lt;/h3&gt;
-
-&lt;p&gt;Head over to our &lt;a href=&#34;/about/equipment/&#34;&gt;tools and equipment&lt;/a&gt; page to learn about what we have to offer.&lt;/p&gt;
-
-&lt;h3 id=&#34;toc_2&#34;&gt;How do you pronounce Chimera?&lt;/h3&gt;
-
-&lt;p&gt;{{% youtube HNagWRD96Wg %}}&lt;/p&gt;
 </description>
     </item>
     
