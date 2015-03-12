@@ -1,0 +1,64 @@
+<nav class="page-nav navbar navbar-default" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <!--button type="button" class="navbar-toggle navbar-left" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button-->
+      <a class="navbar-brand" href="{{ .Site.BaseUrl }}"><img src="{{ .Site.BaseUrl }}/static/assets/logo/drlogo1.png" width="90" height="90"></a>
+    </div>
+
+    <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="dropdown">
+          <a href="{{ .Site.BaseUrl }}/dataanalytics/" class="dropdown-toggle" data-toggle="dropdown">Data Analytics <b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="{{ .Site.BaseUrl }}/dataanalytics/datasciencespecialization">John Hopkin's Data Science Specialization </a></li>
+            <li><a href="{{ .Site.BaseUrl }}/dataanalytics/caltechmachinelearning">Caltech's Machine Learning Course </a></li>
+          </ul>
+        </li>
+	<li class="dropdown">
+          <a href="{{ .Site.BaseUrl }}/techskills/" class="dropdown-toggle" data-toggle="dropdown">Tech. Skills <b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="{{ .Site.BaseUrl }}/techskills/techcertifications">Technical Certifications </a></li>
+            <li><a href="{{ .Site.BaseUrl }}/techskills/softwaredev">Software Development Skills </a></li>
+            <li><a href="{{ .Site.BaseUrl }}/techskills/projectmgt">Project Management </a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="{{ .Site.BaseUrl }}/finance/" class="dropdown-toggle" data-toggle="dropdown">Finance<b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="{{ .Site.BaseUrl }}/finance/CFA">CFA</a></li>
+            <li><a href="{{ .Site.BaseUrl }}/finance/series3">Series 3</a></li>
+          </ul>
+        <li class="dropdown">
+	  <a href="{{ .Site.BaseUrl }}/favorites/" class="dropdown-toggle" data-toggle="dropdown">Favorite Websites <b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="http://www.marketwatch.com">Marketwatch</a></li>
+            <li><a href="http://www.cnnmoney.com">CNN Money</a></li>
+            <li><a href="http://www.beyondthe3cs.toasmaster.com">Beyond the 3Cs toastmaster</a></li>
+            <li><a href="http://www.linkedin.com/in/domrodrigues">Linked In Profile</a></li>
+          </ul>
+        </li>
+        <li><a href="{{ .Site.BaseUrl }}/resume/">Resume</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+   <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+   <!-- Toggleable sidebar -->
+   <div class="sidebar" id="sidebar">
+       <nav class="sidebar-nav">
+         <a class="sidebar-nav-item" href="{{ .Site.BaseUrl }}/">Home</a>
+         <a class="sidebar-nav-item" href="{{ .Site.BaseUrl }}/dataanalytics/">Data Analytics </a>
+         <a class="sidebar-nav-item" href="{{ .Site.BaseUrl }}/techskills/">Technical Skills </a>
+         <a class="sidebar-nav-item" href="{{ .Site.BaseUrl }}/finance">Finance </a>
+         <a class="sidebar-nav-item" href="{{ .Site.BaseUrl }}/favorites">Favorite Websites </a>
+         <a class="sidebar-nav-item" href="{{ .Site.BaseUrl }}/resume">Resume </a>
+       </nav>
+   </div>
+   <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+   
+
