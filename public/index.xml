@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Recent Content on Welcome </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/wwwtest/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Tue, 01 Jan 2008 00:00:00 UTC</updated>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/wwwtest/contact/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/wwwtest/contact/</guid>
+      <description>&lt;p&gt;The best way to reach me is via  &lt;strong&gt;email&lt;/strong&gt;:  &lt;a href=&#34;mailto:dxrodri @ gmail dot com&#34;&gt;dxrodri @ gmail dot com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/wwwtest/aboutme/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/wwwtest/aboutme/</guid>
+      <description>&lt;p&gt;I am software engineer&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Caltech Machine Learning</title>
+      <link>http://localhost:1313/wwwtest/dataanalytics/caltechmachinelearning/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/wwwtest/dataanalytics/caltechmachinelearning/</guid>
+      <description>
+
+&lt;p&gt;This is the list of courses that I have pursued as part of my professional development in the field of data analytics.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Caltech Machine Learning course&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;One of the toughest introductory machine learning course offered by Caltech via EDX.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;Assignments&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/dxrodri/Caltech_ML&#34;&gt;Assignments 1 - 6&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_2&#34;&gt;Grades&lt;/h3&gt;
+
+&lt;p&gt;Achieved a respectable grade of 75%
+   &lt;ul class=&#34;enlarge&#34;&gt;
+    &lt;li&gt;
+    &lt;img src=&#34;/wwwtest/static/img/apps/edx_caltech_ml.png&#34; width=&#34;150px&#34; height=&#34;100px&#34; alt=&#34;Caltech Machine Learning&#34; /&gt;
+    &lt;span&gt;
+    &lt;img src=&#34;/wwwtest/static/img/apps/edx_caltech_ml_large.png&#34; width=&#34;900px&#34; height=&#34;600px&#34; alt=&#34;Caltech Machine Learning&#34; /&gt;
+    &lt;br/&gt;Caltech Machine Learning
+    &lt;/span&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Favorite Websites</title>
+      <link>http://localhost:1313/wwwtest/favorites/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/wwwtest/favorites/</guid>
+      <description>
+
+&lt;h3 id=&#34;toc_0&#34;&gt;Favorite Websites&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.marketwatch.com&#34; title=&#34;Latest financial news&#34;&gt;MarketWatch.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cnnmoney.com&#34; title=&#34;Latest financial news&#34;&gt;CNN Money&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.beyondthe3cs.toasmaster.com&#34; title=&#34;Beyond the 3Cs&#34;&gt;Beyond the 3Cs Toastmaster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.linkedin.com/in/domrodrigues&#34; title=&#34;Professional social networking website&#34;&gt;Linked In&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Analytics</title>
+      <link>http://localhost:1313/wwwtest/dataanalytics/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/wwwtest/dataanalytics/</guid>
+      <description>
+
+&lt;p&gt;This is the list of courses that I have pursued as part of my professional development in the field of data analytics.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;&lt;a href=&#34;datasciencespecialization&#34;&gt;Data Science Specialization&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;9 course data science specialization offered by John Hopkins University via Coursera. &lt;a href=&#34;datasciencespecialization&#34;&gt;Click&lt;/a&gt; to review some of the work submitted as part of this course.
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/course/datascitoolbox&#34;&gt;Data Scientists Toolbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/course/rprog&#34;&gt;R Programming&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/course/getdata&#34;&gt;Getting And Cleaning Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/course/exdata&#34;&gt;Exploratory Data Analysis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/course/repdata&#34;&gt;Reproducible Research&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/course/statinference&#34;&gt;Statistical Research&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/course/regmods&#34;&gt;Regression Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/course/predmachlearn&#34;&gt;Machine Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/course/devdataprod&#34;&gt;Developing Data Products&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/course/dsscapstone&#34;&gt;Swiftkey Capstone Project&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;&lt;a href=&#34;caltechmachinelearning&#34;&gt;Caltech Machine Learning course&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;One of the toughest introductory machine learning course offered by Caltech via EDX. &lt;a href=&#34;caltechmachinelearning&#34;&gt;Click&lt;/a&gt; to review some of the work submitted as part of this course.
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://work.caltech.edu/lectures.html&#34;&gt;Learning from Data&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Series 3</title>
+      <link>http://localhost:1313/wwwtest/finance/series3/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/wwwtest/finance/series3/</guid>
+      <description>&lt;p&gt;Successfully passed the Series 3 exam in December 2009.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/wwwtest/resume/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/wwwtest/resume/</guid>
+      <description>&lt;p&gt;Resume&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Finance</title>
+      <link>http://localhost:1313/wwwtest/finance/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/wwwtest/finance/</guid>
+      <description>
+
+&lt;p&gt;This is the list of courses that I have pursued as part of my professional development in the field of finance.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;&lt;a href=&#34;cfa&#34;&gt;CFA&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;The Chartered Financial Analyst (CFA) credential has become the most respected and recognized investment designation in the world. Learn more about &lt;a href=&#34;http://www.cfainstiture.org&#34;&gt;CFA program&lt;/a&gt;.  The CFA Program is organized into three levels, each culminating in a six-hour exam. The program curriculum progresses in complexity as one move through the three levels:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Level I: Focuses on a basic knowledge of the ten topic areas and simple analysis using investment tools&lt;/li&gt;
+&lt;li&gt;Level II: Emphasizes application of investment tools and concepts with a focus on valuation of all types of assets&lt;/li&gt;
+&lt;li&gt;Level III: Focuses on synthesizing all of the concepts and analytical methods in a variety of applications for effective portfolio management and wealth planning&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;&lt;a href=&#34;series3&#34;&gt;Series 3&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The Series 3 exam is administered by the Financial Industry Regulatory Athority (FINRA) and covers topics such as options, futures, hedging, margin requirements, and regulations. Learn more about &lt;a href=&#34;http://www.nfa.futures.org/nfa-registration/study-outlines/so-series3.pdf&#34;&gt;Series 3 certification&lt;/a&gt;.  The Series 3 exam is broken into two parts:
+
+&lt;ul&gt;
+&lt;li&gt;85 questions on market knowledge&lt;/li&gt;
+&lt;li&gt;35 questions on regulations&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CFA</title>
+      <link>http://localhost:1313/wwwtest/finance/CFA/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/wwwtest/finance/CFA/</guid>
+      <description>
+
+&lt;p&gt;Successfully passed all the three levels of the CFA program.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;CFA Certification&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Level 1 - Passed in July 2010&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Topics covered:
+
+&lt;ul&gt;
+&lt;li&gt;Alternative Investments&lt;/li&gt;
+&lt;li&gt;Corporate Finance&lt;/li&gt;
+&lt;li&gt;Derivatives&lt;/li&gt;
+&lt;li&gt;Economics&lt;/li&gt;
+&lt;li&gt;Equity Investments&lt;/li&gt;
+&lt;li&gt;Ethical and Professional Standards&lt;/li&gt;
+&lt;li&gt;Financial Reporting and Analysis&lt;/li&gt;
+&lt;li&gt;Fixed Income Investments&lt;/li&gt;
+&lt;li&gt;Portfolio Management&lt;/li&gt;
+&lt;li&gt;Quantitative Methods&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Level 2 - Passed in July 2012 &lt;sup&gt; Failed level 2 in July 2011 &lt;/sup&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Topics covered:
+
+&lt;ul&gt;
+&lt;li&gt;Alternative Investments&lt;/li&gt;
+&lt;li&gt;Corporate Finance&lt;/li&gt;
+&lt;li&gt;Derivatives&lt;/li&gt;
+&lt;li&gt;Economics&lt;/li&gt;
+&lt;li&gt;Equity Investments&lt;/li&gt;
+&lt;li&gt;Ethical and Professional Standards&lt;/li&gt;
+&lt;li&gt;Financial Reporting and Analysis&lt;/li&gt;
+&lt;li&gt;Fixed Income Investments&lt;/li&gt;
+&lt;li&gt;Portfolio Managements&lt;/li&gt;
+&lt;li&gt;Quantative Methods&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Level 3 - Passed in August 2013.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Topics covered:
+
+&lt;ul&gt;
+&lt;li&gt;Portfolio Management&lt;/li&gt;
+&lt;li&gt;Equity Investments&lt;/li&gt;
+&lt;li&gt;Economics&lt;/li&gt;
+&lt;li&gt;Fixed Income Investments&lt;/li&gt;
+&lt;li&gt;Risk Management&lt;/li&gt;
+&lt;li&gt;Performance Evaluation&lt;/li&gt;
+&lt;li&gt;Economics&lt;/li&gt;
+&lt;li&gt;Ethical and Professional Standards&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/wwwtest/resume2/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/wwwtest/resume2/</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Dom Rodrigues,CFA&lt;/h2&gt;
+
+&lt;p&gt;dxrodri at gmail dot com&lt;/p&gt;
+
+&lt;div id=&#34;cv&#34; class=&#34;instaFade&#34; &gt;
+   &lt;div id=&#34;mainArea&#34; class=&#34;quickFade delayFive&#34;&gt;
+     &lt;section&gt;
+        &lt;article&gt;
+       &lt;div class=&#34;sectionTitle&#34;&gt;
+        &lt;h1&gt;Personal Profile&lt;/h1&gt;
+       &lt;/div&gt;
+           &lt;div class=&#34;sectionContent&#34;&gt;
+          &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dolor metus, interdum at scelerisque in, porta at lacus. Maecenas dapibus luctus cursus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.&lt;/p&gt;
+       &lt;/div&gt;
+        &lt;/article&gt;
+    &lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+      &lt;/section&gt;
+      &lt;section&gt;
+      &lt;div class=&#34;sectionTitle&#34;&gt;
+        &lt;h1&gt;Personal Profile&lt;/h1&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;sectionContent&#34;&gt;
+        &lt;article&gt;
+        &lt;h2&gt;Job Title at Company&lt;/h2&gt;
+        &lt;p class=&#34;subDetails&#34;&gt;April 2011 - Present&lt;/p&gt;
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.&lt;/p&gt;
+        &lt;/article&gt;
+        &lt;/div&gt;
+    &lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+      &lt;/section&gt;
+      &lt;section&gt;
+        &lt;div class=&#34;sectionTitle&#34;&gt;
+        &lt;h1&gt;Key Skills&lt;/h1&gt;
+    &lt;/div&gt;
+        
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;div class=&amp;quot;sectionContent&amp;quot;&amp;gt;
+  &amp;lt;ul class=&amp;quot;keySkills&amp;quot;&amp;gt;
+     &amp;lt;li&amp;gt;A Key Skill&amp;lt;/li&amp;gt;
+     &amp;lt;li&amp;gt;A Key Skill&amp;lt;/li&amp;gt;
+  &amp;lt;/ul&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;clear&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
+  &amp;lt;/section&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;SOFTWARE ENGINEER&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Technical Skills</title>
+      <link>http://localhost:1313/wwwtest/techskills/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/wwwtest/techskills/</guid>
+      <description>
+
+&lt;p&gt;This is the list of courses and projects that that I have completed as part of my professional development in the field of software development.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;&lt;a href=&#34;techcertifications&#34;&gt;Technical Certification&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Completed the following technology certifications
+
+&lt;ul&gt;
+&lt;li&gt;IBM Certified in WebSphere Process Server (ESB), V6.0, System Administration&lt;/li&gt;
+&lt;li&gt;IBM Certified in WebSphere Application Advanced Server for Multiplatforms&lt;/li&gt;
+&lt;li&gt;IBM Certified in Enterprise Connectivity with J2EE&lt;/li&gt;
+&lt;li&gt;IBM Certified in XML and Related Technologies&lt;/li&gt;
+&lt;li&gt;IBM Certified in Object Oriented Analysis and Design with UML&lt;/li&gt;
+&lt;li&gt;Sun Certified in Java v1.4&lt;/li&gt;
+&lt;li&gt;A Practical Guide to Implementing Enterprise Architecture, DCI University&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;&lt;a href=&#34;softwaredev&#34;&gt;Software Development&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I have software development expertise using the following languages/tools
+
+&lt;ul&gt;
+&lt;li&gt;Java/C++/R/Python/Ruby&lt;/li&gt;
+&lt;li&gt;Hadoop/HBase/Hive/Pig&lt;/li&gt;
+&lt;li&gt;Jaspersoft&lt;/li&gt;
+&lt;li&gt;Oracle/MySql/MSSQL/Excel/VBA&lt;/li&gt;
+&lt;li&gt;Git/SVN&lt;/li&gt;
+&lt;li&gt;Weblogic/Websphere/Tomcat&lt;/li&gt;
+&lt;li&gt;Springsource/Hibernate&lt;/li&gt;
+&lt;li&gt;IBM MQ/Tibco/Rabbit MQ/AMQP&lt;/li&gt;
+&lt;li&gt;Software Security/OpenSSL/CAS&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;&lt;a href=&#34;projectmgt&#34;&gt;Project Management&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I have successfully managed teams across multiple sites in all aspects of software development, testing and production support.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Science Specialization</title>
+      <link>http://localhost:1313/wwwtest/dataanalytics/datasciencespecialization/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/wwwtest/dataanalytics/datasciencespecialization/</guid>
+      <description>
+
+&lt;p&gt;This is the list of courses that I have pursued as part of my professional development in the field of data analytics.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Data Science Specialization&lt;/h2&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;Major Projects&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Developing Data Projects
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dxrodri.shinyapps.io/MPGPredictor/&#34;&gt;Mileage predictor App using Regression Models&lt;/a&gt;
+&lt;ul class=&#34;enlarge&#34;&gt;
+&lt;li&gt;
+&lt;img src=&#34;/wwwtest/static/img/apps/word_predictor.png&#34; width=&#34;150px&#34; height=&#34;100px&#34; alt=&#34;MPG Predictor&#34; /&gt;
+&lt;span&gt;
+&lt;img src=&#34;/wwwtest/static/img/apps/word_predictor_large.png&#34; width=&#34;900px&#34; height=&#34;600px&#34; alt=&#34;MPG Predictor&#34; /&gt;
+&lt;br/&gt;MPG Predictor
+&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;This app is developed using &lt;a href=&#34;http://shiny.rstudio.com/&#34;&gt;Shiny&lt;/a&gt; and using regression models, it predicts the mileage of a car using transmission type, number of cyclinders and weight of the car. The source code for the app is available at &lt;a href=&#34;https://dxrodri.shinyapps.io/MPGPredictor/&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Swiftkey Capstone Project
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dxrodri.shinyapps.io/WordPredictor/&#34; title=&#34;Word Predictor App&#34;&gt;Word Predictor App  using Text Mining techniques&lt;/a&gt;
+&lt;ul class=&#34;enlarge&#34;&gt;
+&lt;li&gt;
+&lt;img src=&#34;/wwwtest/static/img/apps/mpg_predictor.png&#34; width=&#34;150px&#34; height=&#34;100px&#34; alt=&#34;Word  Predictor&#34; /&gt;
+&lt;span&gt;
+&lt;img src=&#34;/wwwtest/static/img/apps/mpg_predictor_large.png&#34; width=&#34;900px&#34; height=&#34;600px&#34; alt=&#34;Word Predictor&#34; /&gt;
+&lt;br/&gt;Word Predictor
+&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;This app is developed using &lt;a href=&#34;http://shiny.rstudio.com/&#34;&gt;Shiny&lt;/a&gt; and predicts the next word the user is likely to type by using &lt;a href=&#34;http://cran.r-project.org/web/packages/tm/vignettes/tm.pdf&#34;&gt;tm&lt;/a&gt; and qdap packages. The app is hosted on Shiny website. The source code for the app is available at &lt;a href=&#34;https://github.com/dxrodri/datasciencecoursera/tree/master/SwiftKeyCapstone&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;toc_2&#34;&gt;Presentations (using rpubs and slidify)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Swiftkey Capstone Project
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://rpubs.com/dxrodri/WordPredictor&#34;&gt;Presentation using RPres&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_3&#34;&gt;Assignments&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Click on the following clicks to view the assignments (developed using R) submitted as part of this course.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Data Scientists Toolbox&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dxrodri/datasciencecoursera/tree/master/RProgramming/Assignments&#34;&gt;R Programming&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dxrodri/datasciencecoursera/tree/master/GettingAndCleaningData/Assignments&#34;&gt;Getting And Cleaning Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dxrodri/datasciencecoursera/tree/master/ExploratoryDataAnalysis/Assignments/Assignment2&#34;&gt;Exploratory Data Analysis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dxrodri/datasciencecoursera/tree/master/Stastical%20Research&#34;&gt;Statistical Research&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dxrodri/datasciencecoursera/tree/master/ReproducibleResearch&#34;&gt;Reproducible Research&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dxrodri/datasciencecoursera/tree/master/Stastical%20Research&#34;&gt;Statistical Research&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dxrodri/datasciencecoursera/tree/master/DevelopingDataProducts/MPGPredictor&#34;&gt;Developing Data Products&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dxrodri/datasciencecoursera/tree/master/Machine%20Learning&#34;&gt;Machine Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dxrodri/datasciencecoursera/tree/master/RegressionModels&#34;&gt;Regression Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dxrodri/datasciencecoursera/tree/master/SwiftKeyCapstone&#34;&gt;Swiftkey Capstone Project&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_4&#34;&gt;Grades&lt;/h3&gt;
+
+&lt;p&gt;&lt;ul class=&#34;enlarge&#34;&gt;
+    &lt;li&gt;
+    &lt;img src=&#34;/wwwtest/static/img/apps/jhudatascience.jpg&#34; width=&#34;150px&#34; height=&#34;100px&#34; alt=&#34;Data Science&#34; /&gt;
+    &lt;span&gt;
+    &lt;img src=&#34;/wwwtest/static/img/apps/jhudatascience_large.png&#34; width=&#34;900px&#34; height=&#34;600px&#34; alt=&#34;Data Science&#34; /&gt;
+    &lt;br/&gt;Data Science Specialization
+    &lt;/span&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;hhttps://www.coursera.org/account/accomplishments/verify/NWJ3ZKKJHQ&#34; title=&#34;Grade Achieved: 98%&#34;&gt;Data Scientists Toolbox -  Grade Achieved: 98%&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/account/accomplishments/verify/PL9BTGG86K&#34; title=&#34;Grade Achieved: 100%&#34;&gt;R Programming -  Grade Achieved: 100%&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/account/accomplishments/verify/T45VL3D5H9&#34; title=&#34;Grade Achieved: 84%&#34;&gt;Getting And Cleaning Data - Grade Achieved: 84%&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/account/accomplishments/verify/RGZMM38YD9&#34; title=&#34;Grade Achieved: 75%&#34;&gt;Exploratory Data Analysis - Grade Achieved: 75%&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/account/accomplishments/verify/UWKX5THDVP&#34; title=&#34;Grade Achieved: 98%&#34;&gt;Reproducible Research - Grade Achieved: 98%&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/account/accomplishments/verify/TX5PMBN95Z&#34; title=&#34;Grade Achieved: 92.8%&#34;&gt;Statistical Research - Grade Achieved: 92.8%&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/account/accomplishments/verify/98Q3RXDXQ8&#34; title=&#34;Grade Achieved: 100%&#34;&gt;Regression Models - Grade Achieved: 100%&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/account/accomplishments/verify/G9FNZ89NRD&#34; title=&#34;Grade Achieved: 100%&#34;&gt;Machine Learning - Grade Achieved: 100%&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/account/accomplishments/verify/QCV3RZ72E9&#34; title=&#34;Grade Achieved: 99.7%&#34;&gt;Developing Data Products - Grade Achieved: 99.7%&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/account/accomplishments/records&#34;&gt;Swiftkey Capstone Project&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project Management</title>
+      <link>http://localhost:1313/wwwtest/techskills/projectmgt/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/wwwtest/techskills/projectmgt/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;I have successfully managed teams across multiple sites in all aspects of software development, testing and production support. See my resume for details.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/wwwtest/www/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/wwwtest/www/</guid>
+      <description>&lt;p&gt;Resume&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software Development</title>
+      <link>http://localhost:1313/wwwtest/techskills/softwaredev/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/wwwtest/techskills/softwaredev/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;I have software development expertise using the following languages/tools
+
+&lt;ul&gt;
+&lt;li&gt;Java/C++/R/Python/Ruby&lt;/li&gt;
+&lt;li&gt;Hadoop/HBase/Hive/Pig&lt;/li&gt;
+&lt;li&gt;Jaspersoft&lt;/li&gt;
+&lt;li&gt;Oracle/MySql/MSSQL/Excel/VBA&lt;/li&gt;
+&lt;li&gt;Git/SVN&lt;/li&gt;
+&lt;li&gt;Weblogic/Websphere/Tomcat&lt;/li&gt;
+&lt;li&gt;Springsource/Hibernate&lt;/li&gt;
+&lt;li&gt;IBM MQ/Tibco/Rabbit MQ/AMQP&lt;/li&gt;
+&lt;li&gt;Software Security/OpenSSL/CAS&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

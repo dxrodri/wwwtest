@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Dataanalytics on Welcome </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/wwwtest/dataanalytics/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Tue, 01 Jan 2008 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Caltech Machine Learning</title>
+      <link>http://localhost:1313/wwwtest/dataanalytics/caltechmachinelearning/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/wwwtest/dataanalytics/caltechmachinelearning/</guid>
+      <description>
+
+&lt;p&gt;This is the list of courses that I have pursued as part of my professional development in the field of data analytics.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Caltech Machine Learning course&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;One of the toughest introductory machine learning course offered by Caltech via EDX.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;Assignments&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/dxrodri/Caltech_ML&#34;&gt;Assignments 1 - 6&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_2&#34;&gt;Grades&lt;/h3&gt;
+
+&lt;p&gt;Achieved a respectable grade of 75%
+   &lt;ul class=&#34;enlarge&#34;&gt;
+    &lt;li&gt;
+    &lt;img src=&#34;/wwwtest/static/img/apps/edx_caltech_ml.png&#34; width=&#34;150px&#34; height=&#34;100px&#34; alt=&#34;Caltech Machine Learning&#34; /&gt;
+    &lt;span&gt;
+    &lt;img src=&#34;/wwwtest/static/img/apps/edx_caltech_ml_large.png&#34; width=&#34;900px&#34; height=&#34;600px&#34; alt=&#34;Caltech Machine Learning&#34; /&gt;
+    &lt;br/&gt;Caltech Machine Learning
+    &lt;/span&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Analytics</title>
+      <link>http://localhost:1313/wwwtest/dataanalytics/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/wwwtest/dataanalytics/</guid>
+      <description>
+
+&lt;p&gt;This is the list of courses that I have pursued as part of my professional development in the field of data analytics.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;&lt;a href=&#34;datasciencespecialization&#34;&gt;Data Science Specialization&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;9 course data science specialization offered by John Hopkins University via Coursera. &lt;a href=&#34;datasciencespecialization&#34;&gt;Click&lt;/a&gt; to review some of the work submitted as part of this course.
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/course/datascitoolbox&#34;&gt;Data Scientists Toolbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/course/rprog&#34;&gt;R Programming&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/course/getdata&#34;&gt;Getting And Cleaning Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/course/exdata&#34;&gt;Exploratory Data Analysis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/course/repdata&#34;&gt;Reproducible Research&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/course/statinference&#34;&gt;Statistical Research&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/course/regmods&#34;&gt;Regression Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/course/predmachlearn&#34;&gt;Machine Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/course/devdataprod&#34;&gt;Developing Data Products&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/course/dsscapstone&#34;&gt;Swiftkey Capstone Project&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;&lt;a href=&#34;caltechmachinelearning&#34;&gt;Caltech Machine Learning course&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;One of the toughest introductory machine learning course offered by Caltech via EDX. &lt;a href=&#34;caltechmachinelearning&#34;&gt;Click&lt;/a&gt; to review some of the work submitted as part of this course.
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://work.caltech.edu/lectures.html&#34;&gt;Learning from Data&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Science Specialization</title>
+      <link>http://localhost:1313/wwwtest/dataanalytics/datasciencespecialization/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/wwwtest/dataanalytics/datasciencespecialization/</guid>
+      <description>
+
+&lt;p&gt;This is the list of courses that I have pursued as part of my professional development in the field of data analytics.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Data Science Specialization&lt;/h2&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;Major Projects&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Developing Data Projects
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dxrodri.shinyapps.io/MPGPredictor/&#34;&gt;Mileage predictor App using Regression Models&lt;/a&gt;
+&lt;ul class=&#34;enlarge&#34;&gt;
+&lt;li&gt;
+&lt;img src=&#34;/wwwtest/static/img/apps/word_predictor.png&#34; width=&#34;150px&#34; height=&#34;100px&#34; alt=&#34;MPG Predictor&#34; /&gt;
+&lt;span&gt;
+&lt;img src=&#34;/wwwtest/static/img/apps/word_predictor_large.png&#34; width=&#34;900px&#34; height=&#34;600px&#34; alt=&#34;MPG Predictor&#34; /&gt;
+&lt;br/&gt;MPG Predictor
+&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;This app is developed using &lt;a href=&#34;http://shiny.rstudio.com/&#34;&gt;Shiny&lt;/a&gt; and using regression models, it predicts the mileage of a car using transmission type, number of cyclinders and weight of the car. The source code for the app is available at &lt;a href=&#34;https://dxrodri.shinyapps.io/MPGPredictor/&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Swiftkey Capstone Project
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dxrodri.shinyapps.io/WordPredictor/&#34; title=&#34;Word Predictor App&#34;&gt;Word Predictor App  using Text Mining techniques&lt;/a&gt;
+&lt;ul class=&#34;enlarge&#34;&gt;
+&lt;li&gt;
+&lt;img src=&#34;/wwwtest/static/img/apps/mpg_predictor.png&#34; width=&#34;150px&#34; height=&#34;100px&#34; alt=&#34;Word  Predictor&#34; /&gt;
+&lt;span&gt;
+&lt;img src=&#34;/wwwtest/static/img/apps/mpg_predictor_large.png&#34; width=&#34;900px&#34; height=&#34;600px&#34; alt=&#34;Word Predictor&#34; /&gt;
+&lt;br/&gt;Word Predictor
+&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;This app is developed using &lt;a href=&#34;http://shiny.rstudio.com/&#34;&gt;Shiny&lt;/a&gt; and predicts the next word the user is likely to type by using &lt;a href=&#34;http://cran.r-project.org/web/packages/tm/vignettes/tm.pdf&#34;&gt;tm&lt;/a&gt; and qdap packages. The app is hosted on Shiny website. The source code for the app is available at &lt;a href=&#34;https://github.com/dxrodri/datasciencecoursera/tree/master/SwiftKeyCapstone&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;toc_2&#34;&gt;Presentations (using rpubs and slidify)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Swiftkey Capstone Project
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://rpubs.com/dxrodri/WordPredictor&#34;&gt;Presentation using RPres&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_3&#34;&gt;Assignments&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Click on the following clicks to view the assignments (developed using R) submitted as part of this course.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Data Scientists Toolbox&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dxrodri/datasciencecoursera/tree/master/RProgramming/Assignments&#34;&gt;R Programming&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dxrodri/datasciencecoursera/tree/master/GettingAndCleaningData/Assignments&#34;&gt;Getting And Cleaning Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dxrodri/datasciencecoursera/tree/master/ExploratoryDataAnalysis/Assignments/Assignment2&#34;&gt;Exploratory Data Analysis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dxrodri/datasciencecoursera/tree/master/Stastical%20Research&#34;&gt;Statistical Research&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dxrodri/datasciencecoursera/tree/master/ReproducibleResearch&#34;&gt;Reproducible Research&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dxrodri/datasciencecoursera/tree/master/Stastical%20Research&#34;&gt;Statistical Research&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dxrodri/datasciencecoursera/tree/master/DevelopingDataProducts/MPGPredictor&#34;&gt;Developing Data Products&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dxrodri/datasciencecoursera/tree/master/Machine%20Learning&#34;&gt;Machine Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dxrodri/datasciencecoursera/tree/master/RegressionModels&#34;&gt;Regression Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dxrodri/datasciencecoursera/tree/master/SwiftKeyCapstone&#34;&gt;Swiftkey Capstone Project&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_4&#34;&gt;Grades&lt;/h3&gt;
+
+&lt;p&gt;&lt;ul class=&#34;enlarge&#34;&gt;
+    &lt;li&gt;
+    &lt;img src=&#34;/wwwtest/static/img/apps/jhudatascience.jpg&#34; width=&#34;150px&#34; height=&#34;100px&#34; alt=&#34;Data Science&#34; /&gt;
+    &lt;span&gt;
+    &lt;img src=&#34;/wwwtest/static/img/apps/jhudatascience_large.png&#34; width=&#34;900px&#34; height=&#34;600px&#34; alt=&#34;Data Science&#34; /&gt;
+    &lt;br/&gt;Data Science Specialization
+    &lt;/span&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;hhttps://www.coursera.org/account/accomplishments/verify/NWJ3ZKKJHQ&#34; title=&#34;Grade Achieved: 98%&#34;&gt;Data Scientists Toolbox -  Grade Achieved: 98%&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/account/accomplishments/verify/PL9BTGG86K&#34; title=&#34;Grade Achieved: 100%&#34;&gt;R Programming -  Grade Achieved: 100%&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/account/accomplishments/verify/T45VL3D5H9&#34; title=&#34;Grade Achieved: 84%&#34;&gt;Getting And Cleaning Data - Grade Achieved: 84%&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/account/accomplishments/verify/RGZMM38YD9&#34; title=&#34;Grade Achieved: 75%&#34;&gt;Exploratory Data Analysis - Grade Achieved: 75%&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/account/accomplishments/verify/UWKX5THDVP&#34; title=&#34;Grade Achieved: 98%&#34;&gt;Reproducible Research - Grade Achieved: 98%&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/account/accomplishments/verify/TX5PMBN95Z&#34; title=&#34;Grade Achieved: 92.8%&#34;&gt;Statistical Research - Grade Achieved: 92.8%&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/account/accomplishments/verify/98Q3RXDXQ8&#34; title=&#34;Grade Achieved: 100%&#34;&gt;Regression Models - Grade Achieved: 100%&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/account/accomplishments/verify/G9FNZ89NRD&#34; title=&#34;Grade Achieved: 100%&#34;&gt;Machine Learning - Grade Achieved: 100%&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/account/accomplishments/verify/QCV3RZ72E9&#34; title=&#34;Grade Achieved: 99.7%&#34;&gt;Developing Data Products - Grade Achieved: 99.7%&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/account/accomplishments/records&#34;&gt;Swiftkey Capstone Project&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
