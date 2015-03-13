@@ -1,3 +1,0 @@
-<script src="{{ .Site.BaseUrl }}/static/js/jquery.min.js"></script>
-<script type="text/javascript" src="{{ .Site.BaseUrl }}/static/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="{{ .Site.BaseUrl }}/static/js/mymarkdown.js"></script>

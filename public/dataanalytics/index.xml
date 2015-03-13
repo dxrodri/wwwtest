@@ -3,53 +3,18 @@
   <channel>
       <title>Dataanalytics on Welcome </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://localhost:1313/wwwtest/dataanalytics/index.xml/</link>
+    <link>http://testdxrodri.github.io/wwwtest/dataanalytics/index.xml/</link>
     <language>en-us</language>
     
     
     <updated>Tue, 01 Jan 2008 00:00:00 UTC</updated>
     
     <item>
-      <title>Caltech Machine Learning</title>
-      <link>http://localhost:1313/wwwtest/dataanalytics/caltechmachinelearning/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:1313/wwwtest/dataanalytics/caltechmachinelearning/</guid>
-      <description>
-
-&lt;p&gt;This is the list of courses that I have pursued as part of my professional development in the field of data analytics.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Caltech Machine Learning course&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;One of the toughest introductory machine learning course offered by Caltech via EDX.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;toc_1&#34;&gt;Assignments&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/dxrodri/Caltech_ML&#34;&gt;Assignments 1 - 6&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;toc_2&#34;&gt;Grades&lt;/h3&gt;
-
-&lt;p&gt;Achieved a respectable grade of 75%
-   &lt;ul class=&#34;enlarge&#34;&gt;
-    &lt;li&gt;
-    &lt;img src=&#34;/wwwtest/static/img/apps/edx_caltech_ml.png&#34; width=&#34;150px&#34; height=&#34;100px&#34; alt=&#34;Caltech Machine Learning&#34; /&gt;
-    &lt;span&gt;
-    &lt;img src=&#34;/wwwtest/static/img/apps/edx_caltech_ml_large.png&#34; width=&#34;900px&#34; height=&#34;600px&#34; alt=&#34;Caltech Machine Learning&#34; /&gt;
-    &lt;br/&gt;Caltech Machine Learning
-    &lt;/span&gt;
-    &lt;/li&gt;
-    &lt;/ul&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Data Analytics</title>
-      <link>http://localhost:1313/wwwtest/dataanalytics/</link>
+      <link>http://testdxrodri.github.io/wwwtest/dataanalytics/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/wwwtest/dataanalytics/</guid>
+      <guid>http://testdxrodri.github.io/wwwtest/dataanalytics/</guid>
       <description>
 
 &lt;p&gt;This is the list of courses that I have pursued as part of my professional development in the field of data analytics.&lt;/p&gt;
@@ -86,11 +51,46 @@
     </item>
     
     <item>
-      <title>Data Science Specialization</title>
-      <link>http://localhost:1313/wwwtest/dataanalytics/datasciencespecialization/</link>
+      <title>Caltech Machine Learning</title>
+      <link>http://testdxrodri.github.io/wwwtest/dataanalytics/caltechmachinelearning/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/wwwtest/dataanalytics/datasciencespecialization/</guid>
+      <guid>http://testdxrodri.github.io/wwwtest/dataanalytics/caltechmachinelearning/</guid>
+      <description>
+
+&lt;p&gt;This is the list of courses that I have pursued as part of my professional development in the field of data analytics.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Caltech Machine Learning course&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;One of the toughest introductory machine learning course offered by Caltech via EDX.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;Assignments&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/dxrodri/Caltech_ML&#34;&gt;Assignments 1 - 6&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_2&#34;&gt;Grades&lt;/h3&gt;
+
+&lt;p&gt;Achieved a respectable grade of 75%
+   &lt;ul class=&#34;enlarge&#34;&gt;
+    &lt;li&gt;
+    &lt;img src=&#34;/wwwtest/static/img/apps/edx_caltech_ml.png&#34; width=&#34;150px&#34; height=&#34;100px&#34; alt=&#34;Caltech Machine Learning&#34; /&gt;
+    &lt;span&gt;
+    &lt;img src=&#34;/wwwtest/static/img/apps/edx_caltech_ml_large.png&#34; width=&#34;900px&#34; height=&#34;600px&#34; alt=&#34;Caltech Machine Learning&#34; /&gt;
+    &lt;br/&gt;Caltech Machine Learning
+    &lt;/span&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Science Specialization</title>
+      <link>http://testdxrodri.github.io/wwwtest/dataanalytics/datasciencespecialization/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://testdxrodri.github.io/wwwtest/dataanalytics/datasciencespecialization/</guid>
       <description>
 
 &lt;p&gt;This is the list of courses that I have pursued as part of my professional development in the field of data analytics.&lt;/p&gt;
