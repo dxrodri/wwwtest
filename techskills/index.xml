@@ -74,28 +74,6 @@
     </item>
     
     <item>
-      <title>Technical Certifications</title>
-      <link>http://testdxrodri.github.io/wwwtest/techskills/techcertifications/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://testdxrodri.github.io/wwwtest/techskills/techcertifications/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Completed the following technology certifications
-
-&lt;ul&gt;
-&lt;li&gt;IBM Certified in WebSphere Process Server (ESB), V6.0, System Administration&lt;/li&gt;
-&lt;li&gt;IBM Certified in WebSphere Application Advanced Server for Multiplatforms&lt;/li&gt;
-&lt;li&gt;IBM Certified in Enterprise Connectivity with J2EE&lt;/li&gt;
-&lt;li&gt;IBM Certified in XML and Related Technologies&lt;/li&gt;
-&lt;li&gt;IBM Certified in Object Oriented Analysis and Design with UML&lt;/li&gt;
-&lt;li&gt;Sun Certified in Java v1.4&lt;/li&gt;
-&lt;li&gt;A Practical Guide to Implementing Enterprise Architecture, DCI University&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Software Development</title>
       <link>http://testdxrodri.github.io/wwwtest/techskills/softwaredev/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
@@ -114,6 +92,28 @@
 &lt;li&gt;Springsource/Hibernate&lt;/li&gt;
 &lt;li&gt;IBM MQ/Tibco/Rabbit MQ/AMQP&lt;/li&gt;
 &lt;li&gt;Software Security/OpenSSL/CAS&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Technical Certifications</title>
+      <link>http://testdxrodri.github.io/wwwtest/techskills/techcertifications/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://testdxrodri.github.io/wwwtest/techskills/techcertifications/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Completed the following technology certifications
+
+&lt;ul&gt;
+&lt;li&gt;IBM Certified in WebSphere Process Server (ESB), V6.0, System Administration&lt;/li&gt;
+&lt;li&gt;IBM Certified in WebSphere Application Advanced Server for Multiplatforms&lt;/li&gt;
+&lt;li&gt;IBM Certified in Enterprise Connectivity with J2EE&lt;/li&gt;
+&lt;li&gt;IBM Certified in XML and Related Technologies&lt;/li&gt;
+&lt;li&gt;IBM Certified in Object Oriented Analysis and Design with UML&lt;/li&gt;
+&lt;li&gt;Sun Certified in Java v1.4&lt;/li&gt;
+&lt;li&gt;A Practical Guide to Implementing Enterprise Architecture, DCI University&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
