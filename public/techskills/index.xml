@@ -3,18 +3,30 @@
   <channel>
       <title>Techskills on Welcome </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://dxrodri.github.io/wwwtest/techskills/index.xml/</link>
+    <link>http://localhost:1313/wwwtest/techskills/index.xml/</link>
     <language>en-us</language>
     
     
     <updated>Tue, 01 Jan 2008 00:00:00 UTC</updated>
     
     <item>
-      <title>Technical Skills</title>
-      <link>http://dxrodri.github.io/wwwtest/techskills/</link>
+      <title>Project Management</title>
+      <link>http://localhost:1313/wwwtest/techskills/projectmgt/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://dxrodri.github.io/wwwtest/techskills/</guid>
+      <guid>http://localhost:1313/wwwtest/techskills/projectmgt/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;I have successfully managed teams across multiple sites in all aspects of software development, testing and production support. See my resume for details.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Technical Skills</title>
+      <link>http://localhost:1313/wwwtest/techskills/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/wwwtest/techskills/</guid>
       <description>
 
 &lt;p&gt;This is the list of courses and projects that that I have completed as part of my professional development in the field of software development.&lt;/p&gt;
@@ -62,23 +74,11 @@
     </item>
     
     <item>
-      <title>Project Management</title>
-      <link>http://dxrodri.github.io/wwwtest/techskills/projectmgt/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://dxrodri.github.io/wwwtest/techskills/projectmgt/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;I have successfully managed teams across multiple sites in all aspects of software development, testing and production support. See my resume for details.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Software Development</title>
-      <link>http://dxrodri.github.io/wwwtest/techskills/softwaredev/</link>
+      <link>http://localhost:1313/wwwtest/techskills/softwaredev/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://dxrodri.github.io/wwwtest/techskills/softwaredev/</guid>
+      <guid>http://localhost:1313/wwwtest/techskills/softwaredev/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;I have software development expertise using the following languages/tools
 
@@ -99,10 +99,10 @@
     
     <item>
       <title>Technical Certifications</title>
-      <link>http://dxrodri.github.io/wwwtest/techskills/techcertifications/</link>
+      <link>http://localhost:1313/wwwtest/techskills/techcertifications/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://dxrodri.github.io/wwwtest/techskills/techcertifications/</guid>
+      <guid>http://localhost:1313/wwwtest/techskills/techcertifications/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Completed the following technology certifications
 
